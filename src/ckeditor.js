@@ -93,8 +93,13 @@ InlineEditor.defaultConfig = {
 		maxCharCount: -1,
 	},
 	table: {
-		contentToolbar: ['tableColumn', 'tableRow', 'mergeTableCells'],
+		contentToolbar: [
+			'tableColumn',
+			'tableRow',
+			'mergeTableCells',
+		],
 	},
 	// This value must be kept in sync with the language defined in webpack.config.js.
-	language: 'en',
+	language:
+		'en',
 };
