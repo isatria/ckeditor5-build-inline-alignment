@@ -2,6 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/ckeditor5-build-inline-alignment.svg)](https://github.com/isatria/ckeditor5-build-inline-alignment)
 [![npm download](https://img.shields.io/npm/dt/ckeditor5-build-inline-alignment.svg)](https://github.com/isatria/ckeditor5-build-inline-alignment)
+[![npm license](https://img.shields.io/npm/l/ckeditor5-build-inline-alignment.svg)](https://github.com/isatria/ckeditor5-build-inline-alignment)
 
 The inline editor build for CKEditor 5 with pre install alignment and word counter plugin. Read more about the [inline editor build](https://ckeditor.com/docs/ckeditor5/latest/builds/guides/overview.html#inline-editor)
 
