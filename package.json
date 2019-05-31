@@ -13,12 +13,14 @@
 		"html",
 		"contentEditable",
 		"editing",
-		"operational transformation",
 		"ot",
 		"collaboration",
-		"collaborative",
 		"real-time",
-		"framework"
+		"framework",
+		"ckeditor5-feature",
+		"ckeditor5-plugin",
+		"ckeditor5-iswordcount",
+		"ckeditor5-alignment"
 	],
 	"main": "./build/ckeditor.js",
 	"files": [
@@ -91,7 +93,7 @@
 	},
 	"dependencies": {
 		"@ckeditor/ckeditor5-alignment": "^11.1.0",
-		"ckeditor5-iswordcount": "0.0.3"
+		"ckeditor5-iswordcount": "0.0.4"
 	},
 	"directories": {
 		"test": "tests"
