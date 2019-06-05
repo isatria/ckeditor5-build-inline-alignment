@@ -12,6 +12,7 @@ The inline editor build for CKEditor 5 with pre install alignment and word count
 
 -   ✓ Char Count
 -   ✓ Alignment
+- [x] Finish my changes
 
 ## **Quick start**
 
