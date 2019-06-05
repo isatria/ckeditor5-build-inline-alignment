@@ -8,6 +8,9 @@ The inline editor build for CKEditor 5 with pre install alignment and word count
 
 ![alt text](https://i.ibb.co/2K7L2pD/Screenshot-2019-05-31-at-11-51-37-PM.png)
 
+
+[Google](https://google.com" target="_blank)
+
 ## **Pre-Install Plugin**
 
 * Char Count
