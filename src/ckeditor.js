@@ -28,6 +28,7 @@ import PasteFromOffice from '@ckeditor/ckeditor5-paste-from-office/src/pastefrom
 import Table from '@ckeditor/ckeditor5-table/src/table';
 import TableToolbar from '@ckeditor/ckeditor5-table/src/tabletoolbar';
 import Alignment from '@ckeditor/ckeditor5-alignment/src/alignment';
+import Font from '@ckeditor/ckeditor5-font/src/font';
 import ISWordCount from 'ckeditor5-iswordcount';
 
 export default class InlineEditor extends InlineEditorBase {}
@@ -57,6 +58,7 @@ InlineEditor.builtinPlugins = [
 	TableToolbar,
 	Alignment,
 	ISWordCount,
+	Font,
 ];
 
 // Editor configuration.
@@ -66,6 +68,9 @@ InlineEditor.defaultConfig = {
 			'heading',
 			'|',
 			'alignment',
+			'fontFamily',
+			'fontSize',
+			'fontColor',
 			'bold',
 			'italic',
 			'link',
