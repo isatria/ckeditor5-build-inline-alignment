@@ -93,7 +93,7 @@
 	},
 	"dependencies": {
 		"@ckeditor/ckeditor5-alignment": "^11.1.0",
-		"ckeditor5-iswordcount": "0.0.4"
+		"ckeditor5-iswordcount": "^0.0.6"
 	},
 	"directories": {
 		"test": "tests"
